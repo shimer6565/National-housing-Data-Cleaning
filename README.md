@@ -1,0 +1,2 @@
+# National-housing-Data-Cleaning
+The data cleansing process involves reviewing all the data present within a database to either remove or update information that is incomplete, incorrect or duplicated and irrelevant. With the national housing dataset taken from kaggle this project does the basic data cleaning works such as standardizing data formats, updating missing values, removing duplicates, deleting unused columns and so on using SQL queries. Tools and Technologies: SQL Server, Excel.
